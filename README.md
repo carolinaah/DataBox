@@ -8,5 +8,5 @@ I am a student of the Masters program in Public Policy and Management at Carnegi
 I hope to learn new ways of visualizing data, aside from the basic designs such as bar graphs, pie charts, line and scatter plots. My hope is to improve my creativity and my communication skills.
 
 ## Portfolio
-Over here you will find the visualization I will be creating throughout the course. 
+Over here you will find the visualizations I will be creating throughout the course. 
 
