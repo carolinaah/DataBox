@@ -48,5 +48,5 @@ From the Critique by Design method, I was able to identify the following charact
 
 After reflecting on the main issues of the graph, I sketched some graphs using the Basalmiq app. 
 
-![alt text](https://github.com/carolinaah/GraphicsBox/New Wireframe 1.png)
+![alt text](https://github.com/carolinaah/GraphicsBox/blob/master/New%20Wireframe%201.png)
       
