@@ -37,3 +37,16 @@ ColorBrewer: Color Advice for Maps. (n.d.). Retrieved January 27, 2019, from htt
 
 General government - General government debt - OECD Data. (n.d.). Retrieved January 27, 2019, from http://data.oecd.org/gga/general-government-debt.htm
 
+## Critique by design (Assignments 3 and 4)
+The purpose of this section is to improve an existing graph of a specific dataset using the results of Stephen Few's Critique by design method, which evaluates data visualizations using the following criteria: (1) Informative. Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness; (2)Emotive. Aesthetics, Engagement. 
+
+The analyzed graph is called "Chart PF2.1.A. Paid maternity leave, 2016" and was taken from the OECD's Family Database's website which provides"... cross-national indicators on family outcomes and family policies across the OECD countries, its enhanced engagement partners and EU member states." (OECD, N.D). The data visualization and the dataset can be found in the following link: http://www.oecd.org/els/family/database.htm under Public policies for families and children (PF) and General policies for families with children. 
+
+From the Critique by Design method, I was able to identify the following characteristics of the graph:
+(1) Informative. The information displayed in the graphs is of great interest, particularly to policy-makers and researchers interested in gender equality and labor issues. The OECD has very good reputation regarding the collection, management and presentation of their data, which makes it a trustful source. However, the analyzed graph fails to fulfill the main objective of the document, which is to show the relationship between the number of weeks of paid maternal leave and the average payment rate across different OECD countries. While the distribution of weeks of paid maternal leave can be seen clearly, it is difficult for the reader to associate the two graphs and come to a conclusion. 
+(2) Emotive. OECD graphs are known for following simple formatting standards. However, I believe that the colors and presentation could help the graph tell a more compelling story. 
+
+After reflecting on the main issues of the graph, I sketched some graphs using the Basalmiq app. 
+
+![alt text]GraphicsBox/New Wireframe 1.png
+      
