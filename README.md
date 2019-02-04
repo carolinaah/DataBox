@@ -61,3 +61,4 @@ It took a while to the reader to decipher what the plot was trying to show. The 
 
 ![new wireframe 1](https://user-images.githubusercontent.com/32470972/52188168-358baa00-27ff-11e9-83cb-de974f655e85.png)
       
+After the feedback received, I concluded that the best way to show the data was using a scatterplot. The scatterplot allows the reader to understand the relationship between two variables without going into specific details, which is the goal of the graph. 
