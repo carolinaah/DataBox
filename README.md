@@ -63,5 +63,6 @@ It took a while to the reader to decipher what the plot was trying to show. The 
       
 After the feedback received, I concluded that the best way to show the data was using a scatterplot. The scatterplot allows the reader to understand the relationship between two variables without going into specific details, which is the goal of the graph. Below you can find the scatterplot I have created for this dataset. As a note, the quality of the image changed when uploading it. 
 
-![oecdscatterplot](https://user-images.githubusercontent.com/32470972/52190492-7f7b8c80-280d-11e9-8037-9bc0a557b5d2.png)
+![oecdscatterplot2](https://user-images.githubusercontent.com/32470972/52190661-5dced500-280e-11e9-8edc-c312ca11566c.png)
+
 
