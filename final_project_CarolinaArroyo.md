@@ -27,7 +27,7 @@
 ## Method 
 The project will use a storytelling method. The story will have the objective of educating and emotionally engaging the reader. I will build the story using Shorthand and Scene VR. The data visualizations will be created in R Shiny, images will come from websites with images released under Creative Commons License such as pixabay or flickr and will depict emotional images of adolescents in Mexico. Below is a very simple mockup of what the site will look like. 
 
-![finalprojectmockup](https://user-images.githubusercontent.com/32470972/52544549-747daa80-2d7f-11e9-857d-1c786ee05576.png)
+![finalprojectmockup](https://user-images.githubusercontent.com/32470972/52544592-abec5700-2d7f-11e9-8457-f494e3fa5019.png)
 
 
 ## The Data 
