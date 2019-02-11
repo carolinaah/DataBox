@@ -34,7 +34,13 @@ The project will use a storytelling method. The story will have the objective of
 
 ### The National Household Survey (ENH)
   Although mental disorders begin to pose a public health problem in Mexico, there is very little information on the mental health status of adolescents in the country. The National Census Bureau (INEGI), together with the Ministry of Public Health, collects information on the mental health of the population at the household level through the National Household Survey (ENH), which includes questions about the condition of depressive and anxiety disorders in the population. However, the mental health component of the ENH is limited to six questions from which it is only possible to estimate the frequency and intensity of the ailments. 
-  
+Source: https://www.inegi.org.mx/programas/enh/2017/
+
+### Health Statistics in Private Establishments 2009-2016 
+
+Health Statistics provide information on the provision of health services, the availability of human, physical and material resources of medical units as well as hospital morbidity recorded through the main diagnosis of exit from the private sector. This information is used for analysis, research, planning and evaluation of the characteristics and effects of health policy in the country.
+Source: http://www3.inegi.org.mx/rnm/index.php/catalog/291/study-description?idPro=
+
 ### The Mexican Adolescent Mental Health Survey (MAMHS)
   As an effort to fill the information gap about mental health, in 2005, the Mexican Adolescent Mental Health Survey (MAMHS) was conducted by the National Institute of Psychiatry "Juan Ramón de la Fuente" in collaboration with the Ministry of Public Health and the WHO. The MAMHS was constructed from the diagnostic standards included in the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association. The survey was designed to be representative of 1,834,661 adolescents aged 12 to 17 living in the Mexico City Metropolitan Area. The results of MAMHS are not available to the general public. However, the Ministry of Public Health through the National Institute of Psychiatry ¨Juan Ramón de la Fuente¨ has made available a series of published studies where the information obtained is presented and analyzed. Data for this project will be takes from these studies, which are cited below:
        
