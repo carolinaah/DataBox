@@ -107,7 +107,8 @@ Below is a visual storyboard that outlines the steps I plan to create and how I 
 ## User research protocol
 
 ### Target audience
- | 
+
+**Audience** | **Description**
 ------------- | -------------
 Target audience | Resident citizens of Mexico with Internet access, between 14 and 50 years old, with an average degree of education of 8.6 years (half of secondary school) and little knowledge about data visualization.
 Sample | The sample is limited to two Mexican students (born and raised in Mexico) pursuing a master's degree at Carnegie Mellon University and one pursuing a master's degree at UPitt. The average age of individuals is 28 and they have bachelor's and master's degrees, as well as knowledge about data visualization. None of them have specialized knowledge in the field of mental health. 
@@ -144,17 +145,17 @@ Gracias por haberte tomado el tiempo de observar el diagrama. Por favor responde
 4. Qué encontraste confuso? Qué cambiarías?
 5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
 
-*Hello, my name is Carolina Arroyo, I'm in my second year of Master's Degree in Public Policy and Administration at Carnegie Mellon University. The reason for this interview is to ask for your feedback on a website I'm working on to ask the federal government for greater investment in strategies to prevent mental illness among Mexican teenagers. 
+*Hello, my name is Carolina Arroyo, I'm in my second year of Master's Degree in Public Policy and Administration at Carnegie Mellon University. The reason for this interview is to ask for your feedback on a website I'm working on to ask the federal government for greater investment in strategies to prevent mental illness among Mexican teenagers* 
 
-*Next I'm going to show you a diagram that represents the sequence in which the information will be presented on the website. The website contains information about the mental health of adolescents in Mexico. Please read the diagram from right to left following the numbering and let me know when you are finished. Afterwards, I will ask you a series of questions related to the website. 
+*Next I'm going to show you a diagram that represents the sequence in which the information will be presented on the website. The website contains information about the mental health of adolescents in Mexico. Please read the diagram from right to left following the numbering and let me know when you are finished. Afterwards, I will ask you a series of questions related to the website.* 
 
-*Thank you for taking the time to look at the diagram. Please answer the following questions: 
+*Thank you for taking the time to look at the diagram. Please answer the following questions:* 
 
-*Did you know this information before reading this website?
-*2. What population group do you think this website is intended for?
-*3. What do you think is the purpose of this website? 
-*4. What did you find confusing? What would you change?
-*5. Without thinking about your answer, mention the first word that comes into your head when you think about mental health.
+*Did you know this information before reading this website?*
+*2. What population group do you think this website is intended for?*
+*3. What do you think is the purpose of this website?* 
+*4. What did you find confusing? What would you change?*
+*5. Without thinking about your answer, mention the first word that comes into your head when you think about mental health.*
 
 
 
