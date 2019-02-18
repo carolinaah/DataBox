@@ -204,3 +204,8 @@ crear conciencia para que las personas participen en la peticion *raise awarenes
 4. Qué encontraste confuso? Qué cambiarías? siento que la informacion se repite un poco, podria ser mas conciso. *I feel like the information repeats itself a little bit, it could be more concise.* 
 5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental. 
 Obstaculo. *Challenge* 
+
+## Storyboard with feedback incorporated
+
+![partii_storyboard2](https://user-images.githubusercontent.com/32470972/52965559-13ec0000-3373-11e9-80f6-cb6ce364d320.png)
+
