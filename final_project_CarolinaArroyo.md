@@ -132,7 +132,7 @@ Improvement | What would you change about this story?
 
 ### Interview script
 
-** The interview will be conducted in Spanish [English version in ITALICS]
+** The interview will be conducted in Spanish (English translation in ITALICS)
 
 Hola, mi nombre es Carolina Arroyo, estudio el segundo año de la maestría en Políticas Públicas y Administración en la Universidad Carnegie Mellon. El motivo de esta entrevista es pedirte tu retroalimentación sobre un website en el que estoy trabajando para solicitar al gobierno federal de México un incremento en la inversión en estrategias de prevención de enfermedades mentales de adolescentes mexicanos. 
 
@@ -163,35 +163,44 @@ Gracias por haberte tomado el tiempo de observar el diagrama. Por favor responde
 
 **Question** | **Main findings**
 ------------- | -------------
-Did you know this information before reading this website? | 
-What population group do you think this website is intended for? |  
-What do you think is the purpose of this website? | 
-What did you find confusing? What would you change? |  
-Without thinking about your answer, mention the first word that comes into your head when you think about mental health | 
+Did you know this information before reading this website? | None of the interviewees knew about this information before, reaffirming the need to spread information about this topic. 
+What population group do you think this website is intended for? | Most of the respondents expressed that the website is intended for more educated audiences than what I am expecting. I will go through the storyboard again to see if I can identified any technical word or any statistics that are hard to understand.  
+What do you think is the purpose of this website? | All respondents agree that the purpose of the page is to raise awareness about mental health and convince people to sign the petition. However, none of them mentioned that this page is explicitly to raise awareness about mental health of adolescents, which makes me believe that I will need to emphasize this point.
+What did you find confusing? What would you change? | Respondents mentioned that the information sounds repetitive and that they were able to find some typos in the text. One of them brought up the need to specify how much investment is needed, which is something I completely missed in the storyboard.   
+Without thinking about your answer, mention the first word that comes into your head when you think about mental health | Two of the three respondents mentioned the type of idea the website is intended to create.  
 
 ## Answers
-Interviewee 1
+Interviewee 1. Male. Heinz College student. Age: 32
 1. Conocías esta información antes de leer este website?
 No.
 2. Para que grupo poblacional crees que este website está dirigido?
-Para un grupo con un nivel educativo de prepatoria o más dado que contenido cuantitativo que no mucha gente será capaz de entender fácilmente.
+Para un grupo con un nivel educativo de prepatoria o más dado que contenido cuantitativo que no mucha gente será capaz de entender fácilmente. *For a group with a high school educational level or more given that quantitative content that not many people will be able to understand easily.*
 3. Cual crees que es el objetivo de este website? 
-Buscar que la personas firmen una peticion para que eleven el gasto en salud mental en Mexico.
+Buscar que la personas firmen una peticion para que eleven el gasto en salud mental en Mexico. *Seek people to sign a petition to increase mental health spending in Mexico.*
 4. Qué encontraste confuso? Qué cambiarías?
 No queda claro si el presupuesto actual es suficiente o cual debiera ser el presupuesto ideal.
 5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
 psicologos o psiquitras.
 
-Interviewee 2
-1. Conocías esta información antes de leer este website? No
-2. Para que grupo poblacional crees que este website está dirigido? mexicanos interesados en temas de política pública o que hacen uso de las redes sociales pero tienen cierto interés por asuntos públicos
-3. Cual crees que es el objetivo de este website? generar conciencia sobre la salud mental 
-4. Qué encontraste confuso? Qué cambiarías? hay algunos typos en la redacción del texto. 
-5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
+Interviewee 2. Female. Heinz College student. Age: 29
+1. Conocías esta información antes de leer este website? 
+No
+2. Para que grupo poblacional crees que este website está dirigido? 
+mexicanos interesados en temas de política pública o que hacen uso de las redes sociales pero tienen cierto interés por asuntos públicos *Mexicans interested in public policy issues or who make use of social networks but have some interest in public affairs*
+3. Cual crees que es el objetivo de este website? 
+generar conciencia sobre la salud mental *raise awareness about mental health*
+4. Qué encontraste confuso? Qué cambiarías? 
+hay algunos typos en la redacción del texto. Hay frases que suenan repetitivas. *there are some typos in the wording of the text. There are phrases that sound repetitive.*
+5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental. 
+Ayuda. *Help*
 
-Interviewee 3
-1. Conocías esta información antes de leer este website? No
-2. Para que grupo poblacional crees que este website está dirigido? 14 a 50 años de edad. 
-3. Cual crees que es el objetivo de este website? crear awareness para que las personas participen en la peticion 
-4. Qué encontraste confuso? Qué cambiarías? siento que la informacion se repite un poco, podria ser mas conciso 
-5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental challenge 
+Interviewee 3. Female. Heinz College student. Age: 27
+1. Conocías esta información antes de leer este website? 
+No
+2. Para que grupo poblacional crees que este website está dirigido? 
+14 a 50 años de edad. *14 to 50 years of age.*
+3. Cual crees que es el objetivo de este website? 
+crear conciencia para que las personas participen en la peticion *raise awareness for people to participate in the petition* 
+4. Qué encontraste confuso? Qué cambiarías? siento que la informacion se repite un poco, podria ser mas conciso. *I feel like the information repeats itself a little bit, it could be more concise.* 
+5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental. 
+Obstaculo. *Challenge* 
