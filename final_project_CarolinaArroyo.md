@@ -9,12 +9,11 @@
 
 ### Project structure 
 
-1. What is mental health?
-2. The state of mental health of adolescents in Mexico 
-      a. Causes 
-      b. Consequences
-3. Current public investment and budget distribution
-4. Petition 
+1. The state of mental health of adolescents in Mexico 
+2. Causes  
+3. Consequences 
+4. Current public investment and budget distribution 
+5. Petition  
 
 ### Measuring success 
 
@@ -85,8 +84,10 @@ Saavedra Solano, N., Berenzon Gorn, S., & Galván Reyes, J. (2016). Salud mental
 
 WHO. (2011). Mexico. Retrieved from http://www.who.int/mental_health/evidence/atlas/profiles/mex_mh_profile.pdf?ua=1&ua=1
 
-# PART II: Petition to increase public investment on mental health prevention strategies for adolescents in Mexico 
-As described in Part I of this project, the storyline will follow the following structure: 
+# PART II  
+## Storyboard
+
+The purpose of this sections is to provide a visual walk-through of the different components of the story. As described in Part I of this project, the storyline will follow the following structure: 
 
 1. The state of mental health of adolescents in Mexico 
 2. Causes  
@@ -94,10 +95,28 @@ As described in Part I of this project, the storyline will follow the following 
 4. Current public investment and budget distribution 
 5. Petition  
 
-The goal of the storyline is for the reader to gain a general understanding of the importance of youth mental health in Mexico, to understand its causes and consequences, and to have a sense of how little the federal government and the Ministry of Public Health are investing in prevention strategies. The strategy of this storyline is to provide the reader with relevant and eye-catching statistics so that they can form their own opinion on the subject and generate a feeling of sympathy. 
+Below is a visual storyboard that outlines the steps I plan to create and how I would like the reader to understand and make sense of the information given. The goal of the project is for the reader to gain a general understanding of the importance of youth mental health in Mexico, to understand its causes and consequences, and to have a sense of how little the federal government and the Ministry of Public Health are investing in prevention strategies. The main strategies used in the storyboard below to engage the reader and convince them to sign the petition to increase the funding are:
+
+1. Provide the reader with relevant and eye-catching statistics so that they can form their own opinion on the subject and generate a feeling of sympathy. 
+2. Use little text and emphasize important figures with different font sizes. 
+3. Accompany graphics with text that helps the reader better understand the information. 
+4. Make the reader feel empowered and capable of making a change.
 
 ![partii_storyboard](https://user-images.githubusercontent.com/32470972/52927508-e8343000-3308-11e9-9587-dae621a9186f.png)
   
+## User research protocol
 
+------------- | -------------
+Target audience | 18
+Argumentative text|11
+Expository text | 11
+Literary text |10
+Total |50
+
+a. the target audience you hope to reach with your story; 
+b. your approach to identifying representative individuals to interview; 
+c. your interview script; 
+d. the findings from your interviews; and 
+e. changes you implemented to your sketches, storyboards and wireframes to address the issues identified.
 
 
