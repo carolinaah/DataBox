@@ -159,4 +159,34 @@ Gracias por haberte tomado el tiempo de observar el diagrama. Por favor responde
 *5. Without thinking about your answer, mention the first word that comes into your head when you think about mental health.* 
 
 
+### Interview findings
 
+**Question** | **Main findings**
+------------- | -------------
+Did you know this information before reading this website? | 
+What population group do you think this website is intended for? |  
+What do you think is the purpose of this website? | 
+What did you find confusing? What would you change? |  
+Without thinking about your answer, mention the first word that comes into your head when you think about mental health | 
+
+## Answers
+Interviewee 1
+1. Conocías esta información antes de leer este website?
+2. Para que grupo poblacional crees que este website está dirigido?
+3. Cual crees que es el objetivo de este website? 
+4. Qué encontraste confuso? Qué cambiarías?
+5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
+
+Interviewee 2
+1. Conocías esta información antes de leer este website? 
+2. Para que grupo poblacional crees que este website está dirigido? 
+3. Cual crees que es el objetivo de este website? 
+4. Qué encontraste confuso? Qué cambiarías?
+5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
+
+Interviewee 3
+1. Conocías esta información antes de leer este website?
+2. Para que grupo poblacional crees que este website está dirigido?
+3. Cual crees que es el objetivo de este website? 
+4. Qué encontraste confuso? Qué cambiarías?
+5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
