@@ -134,7 +134,7 @@ Improvement | What would you change about this story?
 
 ** The interview will be conducted in Spanish [English version in ITALICS]
 
-Hola, mi nombre es Carolina Arroyo, estudio el segundo año de la maestría en Políticas Públicas y Administración en la Universidad Carnegie Mellon. El motivo de esta entrevista es pedirte tu retroalimentación sobre un website en el que estoy trabajando para solicitar al gobierno federal una mayor inversión en estrategias de prevención de enfermedades mentales de adolescentes mexicanos. 
+Hola, mi nombre es Carolina Arroyo, estudio el segundo año de la maestría en Políticas Públicas y Administración en la Universidad Carnegie Mellon. El motivo de esta entrevista es pedirte tu retroalimentación sobre un website en el que estoy trabajando para solicitar al gobierno federal de México un incremento en la inversión en estrategias de prevención de enfermedades mentales de adolescentes mexicanos. 
 
 A continuación te voy a mostrar un diagrama que representa la secuencia en la que se presentará la información en el website. El website contiene información sobre la salud mental de los adolescentes en México. Por favor, lee el diagrama de derecha a izquierda siguiendo la numeración y hazme saber cuando hayas finalizado. Posteriormente, te haré una serie de preguntas relacionada al website. 
 
@@ -172,10 +172,15 @@ Without thinking about your answer, mention the first word that comes into your 
 ## Answers
 Interviewee 1
 1. Conocías esta información antes de leer este website?
+No.
 2. Para que grupo poblacional crees que este website está dirigido?
+Para un grupo con un nivel educativo de prepatoria o más dado que contenido cuantitativo que no mucha gente será capaz de entender fácilmente.
 3. Cual crees que es el objetivo de este website? 
+Buscar que la personas firmen una peticion para que eleven el gasto en salud mental en Mexico.
 4. Qué encontraste confuso? Qué cambiarías?
+No queda claro si el presupuesto actual es suficiente o cual debiera ser el presupuesto ideal.
 5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
+psicologos o psiquitras.
 
 Interviewee 2
 1. Conocías esta información antes de leer este website? 
