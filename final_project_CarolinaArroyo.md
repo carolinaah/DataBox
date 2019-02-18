@@ -183,15 +183,15 @@ No queda claro si el presupuesto actual es suficiente o cual debiera ser el pres
 psicologos o psiquitras.
 
 Interviewee 2
-1. Conocías esta información antes de leer este website? 
-2. Para que grupo poblacional crees que este website está dirigido? 
-3. Cual crees que es el objetivo de este website? 
-4. Qué encontraste confuso? Qué cambiarías?
+1. Conocías esta información antes de leer este website? No
+2. Para que grupo poblacional crees que este website está dirigido? mexicanos interesados en temas de política pública o que hacen uso de las redes sociales pero tienen cierto interés por asuntos públicos
+3. Cual crees que es el objetivo de este website? generar conciencia sobre la salud mental 
+4. Qué encontraste confuso? Qué cambiarías? hay algunos typos en la redacción del texto. 
 5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
 
 Interviewee 3
-1. Conocías esta información antes de leer este website?
-2. Para que grupo poblacional crees que este website está dirigido?
-3. Cual crees que es el objetivo de este website? 
-4. Qué encontraste confuso? Qué cambiarías?
-5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental
+1. Conocías esta información antes de leer este website? No
+2. Para que grupo poblacional crees que este website está dirigido? 14 a 50 años de edad. 
+3. Cual crees que es el objetivo de este website? crear awareness para que las personas participen en la peticion 
+4. Qué encontraste confuso? Qué cambiarías? siento que la informacion se repite un poco, podria ser mas conciso 
+5. Sin pensar en tu respuesta, menciona la primera palabra que llegue a tu cabeza cuando piensas en salud mental challenge 
