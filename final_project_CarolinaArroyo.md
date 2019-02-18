@@ -107,6 +107,7 @@ Below is a visual storyboard that outlines the steps I plan to create and how I 
 ## User research protocol
 
 ### Target audience
+ | 
 ------------- | -------------
 Target audience | Resident citizens of Mexico with Internet access, between 14 and 50 years old, with an average degree of education of 8.6 years (half of secondary school) and little knowledge about data visualization.
 Sample | The sample is limited to two Mexican students (born and raised in Mexico) pursuing a master's degree at Carnegie Mellon University and one pursuing a master's degree at UPitt. The average age of individuals is 28 and they have bachelor's and master's degrees, as well as knowledge about data visualization. None of them have specialized knowledge in the field of mental health. 
@@ -115,11 +116,9 @@ Sample | The sample is limited to two Mexican students (born and raised in Mexic
 
 **Goal** | **Questions**
 ------------- | -------------
-Relevance of the information | Did you know this information before you saw the page? 
-Were you surprised by the information presented here? 
+Relevance of the information | Did you know this information before you saw the page? Were you surprised by the information presented here? 
 Emotional appeal | How do you feel after reading the mental health statistics? 
-Comprehension | Do you have any questions about the data presented? 
-Did you find any graphics confusing?
+Comprehension | Do you have any questions about the data presented? Did you find any graphics confusing?
 Intention | Would you sign the petition after reading this story? 
 Improvement | What would you change about this story? 
 
