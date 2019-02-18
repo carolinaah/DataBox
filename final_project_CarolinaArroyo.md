@@ -128,6 +128,7 @@ Improvement | What would you change about this story?
 1. Given the limited time of Heinz College students, the interview will last from 5 to 10 minutes.
 2. Face-to-face interview. Interviewees will answer the questions by typing them directly to the github page. 
 3. Interviewees will be shown the storyboard and would be asked questions during and after the viewing
+4. The interview will be conducted in Spanish and students will be asked to answer in Spanish too. Their answers will be translated to English. 
 
 ### Interview script
 
@@ -151,11 +152,11 @@ Gracias por haberte tomado el tiempo de observar el diagrama. Por favor responde
 
 *Thank you for taking the time to look at the diagram. Please answer the following questions:* 
 
-*Did you know this information before reading this website?*
-*2. What population group do you think this website is intended for?*
-*3. What do you think is the purpose of this website?* 
-*4. What did you find confusing? What would you change?*
-*5. Without thinking about your answer, mention the first word that comes into your head when you think about mental health.*
+*Did you know this information before reading this website?* 
+*2. What population group do you think this website is intended for?* 
+*3. What do you think is the purpose of this website?*  
+*4. What did you find confusing? What would you change?* 
+*5. Without thinking about your answer, mention the first word that comes into your head when you think about mental health.* 
 
 
 
