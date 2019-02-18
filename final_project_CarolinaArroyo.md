@@ -150,9 +150,9 @@ Gracias por haberte tomado el tiempo de observar el diagrama. Por favor responde
 
 *Next I'm going to show you a diagram that represents the sequence in which the information will be presented on the website. The website contains information about the mental health of adolescents in Mexico. Please read the diagram from right to left following the numbering and let me know when you are finished. Afterwards, I will ask you a series of questions related to the website.* 
 
-*Thank you for taking the time to look at the diagram. Please answer the following questions:* 
+*Thank you for taking the time to look at the diagram. Please answer the following questions:*  
 
-*Did you know this information before reading this website?* 
+*1. Did you know this information before reading this website?* 
 *2. What population group do you think this website is intended for?* 
 *3. What do you think is the purpose of this website?*  
 *4. What did you find confusing? What would you change?* 
