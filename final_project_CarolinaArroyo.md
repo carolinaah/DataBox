@@ -1,4 +1,4 @@
-# Petition to increase public investment on mental health prevention strategies for adolescents in Mexico 
+# PART I: Petition to increase public investment on mental health prevention strategies for adolescents in Mexico 
 
 ## Outline
 
@@ -85,5 +85,21 @@ Saavedra Solano, N., Berenzon Gorn, S., & Galván Reyes, J. (2016). Salud mental
 
 WHO. (2011). Mexico. Retrieved from http://www.who.int/mental_health/evidence/atlas/profiles/mex_mh_profile.pdf?ua=1&ua=1
 
+# PART II: Petition to increase public investment on mental health prevention strategies for adolescents in Mexico 
+As described in Part I of this project, the storyline will follow the following structure: 
 
-       
+1. The state of mental health of adolescents in Mexico 
+2. Causes  
+3. Consequences 
+4. Current public investment and budget distribution 
+5. Petition  
+
+The goal of the storyline is for the reader to gain a general understanding of the importance of youth mental health in Mexico, to understand its causes and consequences, and to have a sense of how little the federal government and the Ministry of Public Health are investing in prevention strategies. The strategy of this storyline is to provide the reader with relevant and eye-catching statistics so that they can form their own opinion on the subject and generate a feeling of sympathy. 
+
+![partii_storyboard](https://user-images.githubusercontent.com/32470972/52927457-a0150d80-3308-11e9-92b3-63008ecd8270.png)
+
+
+  
+
+
+
