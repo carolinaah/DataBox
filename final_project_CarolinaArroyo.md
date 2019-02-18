@@ -106,12 +106,39 @@ Below is a visual storyboard that outlines the steps I plan to create and how I 
   
 ## User research protocol
 
+### Target audience
 ------------- | -------------
-Target audience | 18
-Argumentative text|11
-Expository text | 11
-Literary text |10
-Total |50
+Target audience | Resident citizens of Mexico with Internet access, between 14 and 50 years old, with an average degree of education of 8.6 years (half of secondary school) and little knowledge about data visualization.
+Sample | The sample is limited to three Mexican students (born and raised in Mexico) pursuing a master's degree at Carnegie Mellon University. The average age of individuals is 28 and they have bachelor's and master's degrees, as well as knowledge about data visualization. None of them have specialized knowledge in the field of mental health. 
+
+### Research goals
+
+**Goal** | **Questions**
+------------- | -------------
+Relevance of the information | Did you know this information before you saw the page? 
+Were you surprised by the information presented here? 
+Emotional appeal | How do you feel after reading the mental health statistics? 
+Comprehension | Do you have any questions about the data presented? 
+Did you find any graphics confusing?
+Intention | Would you sign the petition after reading this story? 
+Improvement | What would you change about this story? 
+
+### Method
+
+1. Given the limited time of Heinz College students, the interview will last from 5 to 10 minutes.
+2. Face-to-face interview. Interviewees will answer the questions by typing them directly to the github page. 
+3. Interviewees will be shown the storyboard and would be asked questions during and after the viewing
+
+### Interview script
+
+** The interview will be conducted in Spanish [English version in brackets]
+
+Hola, mi nombre es Carolina Arroyo, estudio el segundo año de la maestría en Políticas Públicas y Administración en la Universidad Carnegie Mellon. El motivo de esta entrevista es pedirte tu retroalimentación sobre un website en el que estoy trabajando para solicitar al gobierno federal una mayor inversión en estrategias de prevención de enfermedades mentales de adolescentes mexicanos. 
+
+A continuación te voy a mostrar un diagrama que representa la secuencia en la que se presentará la información en el website. El website contiene información sobre la salud mental de los adolescentes en México. Por favor, lee el diagrama de derecha a izquierda siguiendo la numeración y hazme saber cuando hayas finalizado. Posteriormente, te haré una serie de preguntas relacionada al website. 
+
+
+Gracias por haberte tomado el tiempo de observar el diagrama. Por favor responde las siguientes preguntas: 
 
 a. the target audience you hope to reach with your story; 
 b. your approach to identifying representative individuals to interview; 
