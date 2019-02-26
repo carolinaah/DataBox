@@ -209,3 +209,12 @@ Obstaculo. *Challenge*
 
 ![partii_storyboard2](https://user-images.githubusercontent.com/32470972/52965559-13ec0000-3373-11e9-80f6-cb6ce364d320.png)
 
+# PART III
+The objective of this project was to create a website to raise awareness about the importance of adolescent mental health in Mexico and the need to increase federal investment in prevention strategies. 
+The website is aimed at an audience with higher education capable of interpreting basic graphs and with basic knowledge of statistics and probability. The graphs were created using RStudio's ggplot package and the data were extracted from multiple articles published by Mexico's National Institute of Psychiatry. 
+The Shorthand platform was used as a tool, which imposed certain limitations for the visualization of the data if the user has no knowledge of html or java, which was my case. Another obstacle was to find high quality images that represent teenagers of Latin race because most of the photos found on creative commons sites, refer to people of different origins. 
+
+You can go to the final page in the following link: https://carnegiemellon.shorthandstories.com/mentalhealthMexico/index.html
+And you can access my repository using the following link: https://carolinaah.github.io/GraphicsBox/
+
+
